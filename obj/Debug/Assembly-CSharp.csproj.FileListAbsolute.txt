@@ -1,0 +1,12 @@
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\UnityEditor.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\UnityEngine.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\Mono.Cecil.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\nunit.framework.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity3D\projects\WarOfPlane\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Unity3D\projects\WarOfPlane\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Unity3D\projects\WarOfPlane\obj\Debug\Assembly-CSharp.dll
+E:\Unity3D\projects\WarOfPlane\obj\Debug\Assembly-CSharp.pdb
