@@ -5,4 +5,4 @@
 
 脚本语言用的是C#（忘了当初为什么选的C#了，还可以用JS，不过作为脚本来用的话，其实差不多，为什么没有Python 哭）
 Unity里面JS和日常用的JavaScript可能只是部分语法差不多，所以也有人直接将其叫做UnityScript<br>
-![Plane](http://121.42.164.108/Silence/wp-content/uploads/2016/08/warofplane.png)
+![Plane](http://121.42.164.108/Silence/wp-content/uploads/2016/08/warofplane1.png)
